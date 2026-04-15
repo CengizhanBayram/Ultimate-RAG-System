@@ -1,0 +1,240 @@
+MÜŞTERİ HİZMET SÖZLEŞMESİ
+
+Sözleşme Tarihi: 2023-01-15
+
+Bu Müşteri Hizmet Sözleşmesi ("Sözleşme"), aşağıda belirtilen taraflar arasında, belirtilen tarih itibarıyla akdedilmiştir.
+
+===========================================================================
+Madde 1: Taraflar ve Tanımlar
+===========================================================================
+
+1.1 Taraflar
+
+Bu Sözleşme;
+- "Hizmet Sağlayıcı" sıfatıyla: İstanbul Teknoloji A.Ş., Levent Mah. Büyükdere Cad. No:185, Şişli/İstanbul, Türkiye, Ticaret Sicil No: 12345678 ("Şirket")
+- "Müşteri" sıfatıyla: Sözleşmeyi kabul eden gerçek veya tüzel kişi ("Müşteri")
+
+arasında imzalanmıştır.
+
+1.2 Tanımlar
+
+"Hizmet": Şirket tarafından sunulan yazılım, bulut altyapısı ve destek hizmetlerinin tamamı.
+"Paket": Müşterinin seçtiği Basic, Pro veya Enterprise abonelik planı.
+"Kullanıcı": Müşteri hesabı altında sisteme erişim yetkisi verilmiş bireyler.
+"SLA": Hizmet Seviyesi Anlaşması (Service Level Agreement).
+"KVKK": 6698 sayılı Kişisel Verilerin Korunması Kanunu.
+"Madde": Bu Sözleşme'nin ilgili bölümü veya alt bölümü.
+"Gün": Takvim günü, aksi belirtilmedikçe.
+"İş Günü": Cumartesi, Pazar ve resmi tatil günleri hariç haftanın beş günü.
+
+===========================================================================
+Madde 2: Hizmet Kapsamı
+===========================================================================
+
+2.1 Şirket, Müşteri'ye seçilen Paket kapsamında aşağıdaki hizmetleri sağlamayı taahhüt eder:
+   a) Yazılım platformuna çevrimiçi erişim
+   b) Veri depolama ve yedekleme hizmetleri
+   c) API erişimi ve entegrasyon desteği
+   d) Teknik destek hizmetleri (Pakete göre değişen kapsamda)
+   e) Güvenlik güncellemeleri ve bakım hizmetleri
+
+2.2 Hizmet kapsamı, Şirket tarafından önceden bildirim yapılmak kaydıyla genişletilebilir veya değiştirilebilir. Esaslı değişiklikler için Müşteri'ye en az 30 gün öncesinden yazılı bildirim yapılır.
+
+2.3 Hizmet, yalnızca Şirket'in belirlediği teknik gereksinimlerle uyumlu cihaz ve sistemler üzerinden kullanılabilir.
+
+===========================================================================
+Madde 3: Ödeme Koşulları
+===========================================================================
+
+3.1 Ücretler
+
+Müşteri, seçtiği Paket için belirlenen aylık veya yıllık abonelik ücretini ödemekle yükümlüdür. Güncel fiyatlar, Şirket'in resmi web sitesinde ve paket_fiyatlari.csv dosyasında yayımlanmaktadır.
+
+3.2 Ödeme Yöntemi
+
+Ödemeler; kredi kartı, banka havalesi veya Şirket'in kabul ettiği diğer elektronik ödeme yöntemleriyle yapılabilir.
+
+3.3 Fatura ve Ödeme Vadesi
+
+Faturalar, her abonelik döneminin başında düzenlenir. Ödeme, fatura düzenlenme tarihinden itibaren 14 iş günü içinde yapılmalıdır. Gecikmeli ödemelerde aylık %2 gecikme faizi uygulanır.
+
+3.4 Fiyat Değişiklikleri
+
+Şirket, abonelik ücretlerini her yılın Ocak ayında, önceki yıla göre en fazla %20 artırabilir. Müşteri, artıştan en az 45 gün öncesinde yazılı olarak bilgilendirilir.
+
+===========================================================================
+Madde 4: İade ve İptal Politikası
+===========================================================================
+
+Madde 4.1: Standart İade Süresi
+
+Müşteri, hizmetten memnun kalmaması durumunda aboneliğinin başlangıç tarihinden itibaren 14 (ondört) gün içinde yazılı iade talebinde bulunabilir. Bu süre içinde yapılan geçerli iade başvurularında, ödenen tutar tam olarak iade edilir. Söz konusu 14 günlük standart iade süresi, tüm paketler için geçerlidir.
+
+Madde 4.2: İptal Prosedürü ve Para İadesi
+
+4.2.1 İptal Başvurusu:
+İptal talepleri, aşağıdaki adımlar izilerek gerçekleştirilir:
+   a) Müşteri Portalı üzerinden "Hesap Ayarları > Abonelik > İptal Et" menüsüne gidilir.
+   b) İptal nedeni seçilir ve onay formu doldurulur.
+   c) Kimlik doğrulama adımı tamamlanır (SMS veya e-posta OTP).
+   d) İptal talebi Şirket sistemine iletilir ve referans numarası alınır.
+
+4.2.2 Para İadesi Süreci:
+   - Onaylanan iade talepleri, 5 iş günü içinde işleme alınır.
+   - Kredi kartı ödemelerinde geri ödeme, 3–10 iş günü içinde kart hesabına yansır.
+   - Banka havalesi ile yapılan ödemelerde iade, banka hesabına 7–15 iş günü içinde aktarılır.
+   - Yıllık abonelikte, kullanılmayan ay sayısı oranında kısmi iade yapılır.
+
+4.2.3 İade Dışı Durumlar:
+   - İade süresi geçtikten sonra yapılan talepler kabul edilmez.
+   - Şirket politikalarını açıkça ihlal eden hesaplara iade yapılmaz.
+
+===========================================================================
+Madde 5: Paket Yükseltme ve Düşürme Kuralları
+===========================================================================
+
+5.1 Paket Yükseltme (Upgrade):
+Müşteri, istediği zaman daha yüksek bir pakete geçiş yapabilir. Yükseltme anında, kalan dönem için fark tutarı orantılı olarak hesaplanır ve tahsil edilir. Yeni paket özellikleri derhal aktive edilir.
+
+5.2 Paket Düşürme (Downgrade):
+Paket düşürme işlemi, yalnızca mevcut abonelik döneminin sonunda geçerli olur. Mevcut dönemde aktif olan özellikler, dönem sona erene kadar erişilebilir kalmaya devam eder. Düşürme talebinin dönem bitimine en az 7 iş günü kala yapılması gerekmektedir.
+
+5.3 Kısıtlamalar:
+Enterprise paketinden Basic pakete doğrudan geçiş yapılamaz; önce Pro pakete geçiş zorunludur.
+
+===========================================================================
+Madde 6: Hizmet Seviyesi Anlaşması (SLA)
+===========================================================================
+
+Madde 6.1: SLA Garantileri ve Tazminat Şartları
+
+6.1.1 Uptime Garantisi:
+   - Basic Paket: %99.5 aylık uptime garantisi
+   - Pro Paket: %99.9 aylık uptime garantisi
+   - Enterprise Paket: %99.95 aylık uptime garantisi
+
+6.1.2 Planlı Bakım:
+Planlı bakım süreleri, önceden Müşteri'ye e-posta ve sistem bildirimi ile duyurulur. Bu süreler uptime hesaplamasından düşülür.
+
+6.1.3 SLA İhlali Tazminatları:
+Garantinin altında kalan her %0.1'lik düşüş için, o aya ait ücretin %5'i oranında hizmet kredisi uygulanır. Maksimum aylık kredi, o aya ait toplam ücretin %50'sini geçemez.
+
+6.1.4 Tazminat Başvuru Süreci:
+Müşteri, SLA ihlali için ilgili ayın sona ermesinden itibaren 30 gün içinde yazılı başvuru yapmalıdır. Başvurular destek@sirketemail.com adresine iletilir.
+
+===========================================================================
+Madde 7: Veri Saklama ve Gizlilik
+===========================================================================
+
+7.1 Veri Saklama Süreleri:
+Müşteri verileri, abonelik aktif olduğu süre boyunca ve aboneliğin sona ermesini takip eden 90 gün boyunca saklanır. 90 gün sonra veriler kalıcı olarak silinir.
+
+7.2 Veri Yedekleme:
+Veriler günlük olarak yedeklenir. Felaket kurtarma senaryolarında son 7 günlük yedekten geri dönüş sağlanabilir.
+
+Madde 7.3: Veri Saklama ve Kullanıcının KVKK Kapsamında Silme Hakkı
+
+Müşteri ve ilgili kullanıcılar, 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK") kapsamında aşağıdaki haklara sahiptir:
+
+a) Kişisel verilerinin işlenip işlenmediğini öğrenme hakkı,
+b) Kişisel verileri işlenmişse buna ilişkin bilgi talep etme hakkı,
+c) Kişisel verilerinin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme hakkı,
+d) Yurt içinde veya yurt dışında kişisel verilerinin aktarıldığı üçüncü kişileri bilme hakkı,
+e) Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme hakkı,
+f) KVKK'nın 7. maddesi çerçevesinde kişisel verilerin silinmesini veya yok edilmesini isteme hakkı,
+g) İşlenen veriler aleyhine oluşan sonucun itiraz etme ve bu sonucun ortadan kaldırılmasını talep etme hakkı.
+
+Silme taleplerinin işleme alınması için kvkk@sirketemail.com adresine kimlik doğrulayıcı belgeler ile yazılı başvuru yapılmalıdır. Başvurular en geç 30 gün içinde yanıtlanır.
+
+===========================================================================
+Madde 8: Gizlilik Politikası
+===========================================================================
+
+8.1 Şirket, Müşteri'ye ait tüm bilgi ve verileri gizli tutmayı, üçüncü taraflara satmamayı veya açıklamamayı taahhüt eder. İstisnalar: yasal zorunluluklar, yargı kararları ve Müşteri'nin açık yazılı rızası.
+
+8.2 Müşteri verileri, ISO 27001 standardına uygun güvenlik önlemleriyle korunur. Veriler AES-256 şifrelemesiyle saklanır.
+
+8.3 Güvenlik İhlali Bildirimi:
+Kişisel verileri etkileyen güvenlik ihlali tespitinde, Şirket KVKK'nın 12. maddesi gereğince 72 saat içinde yetkili mercilere ve 48 saat içinde Müşteri'ye bildirimde bulunur.
+
+8.4 Üçüncü Taraf Entegrasyonları:
+Müşteri'nin onayıyla entegre edilen üçüncü taraf hizmetleri kendi gizlilik politikalarına tabidir. Şirket, bu üçüncü tarafların eylemlerinden sorumlu tutulamaz.
+
+===========================================================================
+Madde 9: Uyuşmazlık Çözümü
+===========================================================================
+
+Madde 9.1: Uyuşmazlık Çözümü ve Yetkili Mahkeme
+
+9.1.1 Taraflar, bu Sözleşme'den doğan uyuşmazlıkları öncelikle müzakere yoluyla çözmeyi kabul eder.
+
+9.1.2 Müzakere yoluyla çözülemeyen uyuşmazlıklarda, taraflar öncelikle arabuluculuk yoluna başvurabilir.
+
+9.1.3 Arabuluculuğun başarısız kalması halinde, yetkili mahkeme olarak İstanbul (Çağlayan) Mahkemeleri ve İcra Daireleri yetkilidir. Uygulanacak hukuk Türk Hukuku'dur.
+
+9.1.4 Tüketici işlemleri bakımından, 6502 sayılı Tüketicinin Korunması Hakkında Kanun hükümleri saklı kalmak kaydıyla, Müşteri'nin bulunduğu yerdeki Tüketici Mahkemeleri de yetkilidir.
+
+===========================================================================
+Madde 10: Mücbir Sebep
+===========================================================================
+
+10.1 Doğal afet, savaş, salgın hastalık, siber saldırı, altyapı çöküşü veya hükümet kararları gibi tarafların kontrolü dışındaki mücbir sebep halleri nedeniyle hizmetin aksaması durumunda, Şirket sorumluluğu askıya alınır.
+
+10.2 Mücbir sebep halinin 30 günü aşması durumunda, taraflar sözleşmeyi tazminatsız olarak feshedebilir.
+
+===========================================================================
+Madde 11: Fesih Koşulları
+===========================================================================
+
+11.1 Olağan Fesih:
+Her iki taraf da 30 günlük önceden yazılı bildirim ile Sözleşme'yi feshedebilir.
+
+11.2 Haklı Nedenle Fesih:
+Aşağıdaki durumlarda Şirket, bildirimsiz ve tazminatsız olarak Sözleşme'yi feshedilebilir:
+   a) Müşteri'nin ödeme yükümlülüklerini 30 günü aşan gecikmeyle yerine getirmemesi,
+   b) Hizmetin kötüye kullanımı veya üçüncü taraflara yetkisiz erişim sağlanması,
+   c) Şirket sistemlerine zarar vermeye yönelik eylemler.
+
+11.3 Fesih Sonrası Yükümlülükler:
+Fesih tarihinden itibaren 30 gün içinde Müşteri, verilerini dışa aktarabilir. Bu sürenin sona ermesi ile birlikte Madde 7.1 kapsamında veri saklama ve imha süreci başlar.
+
+===========================================================================
+Madde 12: Devir Yasağı
+===========================================================================
+
+12.1 Müşteri, bu Sözleşme'den doğan hak ve yükümlülüklerini Şirket'in önceden yazılı onayı olmaksızın üçüncü kişilere devredemez, temlik edemez veya başkasına kullandıramaz.
+
+12.2 Şirket, bu Sözleşme'yi iş birleşmesi, satın alma veya yeniden yapılanma kapsamında, Müşteri'ye en az 30 gün öncesinden yazılı bildirim yapmak suretiyle devredebilir. Bu devir, hizmet koşullarında Müşteri aleyhine değişiklik yaratmayacaktır.
+
+===========================================================================
+Madde 13: Bütünlük Maddesi
+===========================================================================
+
+13.1 Bu Sözleşme, taraflar arasındaki tüm anlaşmaları kapsamakta olup; daha önce yapılmış tüm sözlü ve yazılı anlaşmaların yerini almaktadır.
+
+13.2 Bu Sözleşme'nin bir hükmünün geçersiz veya uygulanamaz olduğunun tespit edilmesi halinde, kalan hükümlerin geçerliliği ve uygulanabilirliği etkilenmez. Geçersiz hüküm, tarafların amaçladığı ekonomik sonuca en yakın geçerli hükümle değiştirilir.
+
+===========================================================================
+Madde 14: Tadil (Değişiklik)
+===========================================================================
+
+14.1 Bu Sözleşme'de yapılacak değişiklikler, ancak her iki tarafın imzaladığı yazılı bir ek sözleşme ile geçerlilik kazanır.
+
+14.2 Şirket, hizmet koşullarında tek taraflı değişiklik yapma hakkını saklı tutar; ancak bu değişiklikler Müşteri'ye en az 30 gün öncesinden e-posta ve sistem bildirimi ile duyurulur. Müşteri, değişikliğin yürürlüğe girmesinden önce Sözleşme'yi feshedebilir.
+
+14.3 Güncellemeler:
+Sözleşmenin belirli maddelerinde yapılan değişiklikler, guncellemeler.json dosyasında kayıt altına alınır. Bu kayıtlar, belirtilen maddelerin güncel versiyonunu temsil eder ve çakışma halinde ana sözleşme metnine göre öncelik taşır.
+
+===========================================================================
+Madde 15: Yürürlük
+===========================================================================
+
+15.1 Bu Sözleşme, Müşteri'nin sistemi aktive ettiği tarihte yürürlüğe girer.
+
+15.2 Yürürlük tarihi itibarıyla tarafların her ikisi de bu Sözleşme'nin tüm hükümlerini okuduklarını, anladıklarını ve kabul ettiklerini beyan ederler.
+
+15.3 Dijital kabul (çevrimiçi onay kutusunu işaretleme veya elektronik imza), bu Sözleşme bakımından ıslak imza ile eşdeğer hukuki geçerliliğe sahiptir.
+
+===========================================================================
+SON
+===========================================================================

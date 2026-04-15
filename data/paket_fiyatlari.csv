@@ -1,0 +1,5 @@
+paket_adi,aylik_fiyat_tl,yillik_fiyat_tl,kullanici_limiti,depolama_gb,api_cagrisi_limiti_aylik,destek_tipi,sla_uptime_yuzde,ozellikler,son_guncelleme_tarihi
+Basic,199,1990,5,20,10000,E-posta (hafta içi 09-18),99.5,"Temel analitik, CSV dışa aktarma, 2 entegrasyon, standart şablonlar",2024-03-15
+Pro,599,5990,25,100,100000,E-posta + Telefon (7/24),99.9,"Gelişmiş analitik, API erişimi, 20 entegrasyon, özel şablonlar, öncelikli destek, aylık raporlama",2024-09-01
+Enterprise,1999,19990,Sınırsız,1000,Sınırsız,Özel Hesap Yöneticisi (7/24),99.95,"Tüm Pro özellikleri, SSO/SAML, özel SLA, veri merkezi seçimi, uyumluluk raporları, dedicated sunucu, 4 saatlik kurtarma garantisi",2024-04-01
+# Bu dosya her Pazartesi güncellenir

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "UPD-001",
+    "tarih": "2024-01-10",
+    "etkilenen_kaynak": "sozlesme",
+    "etkilenen_madde": "4.1",
+    "etkilenen_paket": null,
+    "degisiklik": "Tüm paketlerde standart iade süresi 14 günden 21 güne çıkarılmıştır.",
+    "onceki_deger": "14 gün",
+    "yeni_deger": "21 gün",
+    "onaylayan": "Hukuk Departmanı"
+  },
+  {
+    "id": "UPD-002",
+    "tarih": "2024-06-01",
+    "etkilenen_kaynak": "sozlesme",
+    "etkilenen_madde": "4.1",
+    "etkilenen_paket": "Pro",
+    "degisiklik": "Pro paket için iade süresi 30 güne çıkarılmıştır. Bu karar, Pro müşterilerinin talepleri ve pazar rekabeti gözetilerek alınmıştır.",
+    "onceki_deger": "21 gün",
+    "yeni_deger": "30 gün",
+    "onaylayan": "Ürün Ekibi"
+  },
+  {
+    "id": "UPD-003",
+    "tarih": "2024-03-15",
+    "etkilenen_kaynak": "paket",
+    "etkilenen_madde": null,
+    "etkilened_paket": "Basic",
+    "etkilenen_paket": "Basic",
+    "degisiklik": "Basic paket aylık fiyatı 149 TL'den 199 TL'ye yükseltilmiştir. Yıllık fiyat ise 1490 TL'den 1990 TL'ye çıkarılmıştır.",
+    "onceki_deger": "149 TL/ay, 1490 TL/yıl",
+    "yeni_deger": "199 TL/ay, 1990 TL/yıl",
+    "onaylayan": "Finans Departmanı"
+  },
+  {
+    "id": "UPD-004",
+    "tarih": "2024-04-01",
+    "etkilenen_kaynak": "paket",
+    "etkilenen_madde": null,
+    "etkilened_paket": "Enterprise",
+    "etkilenen_paket": "Enterprise",
+    "degisiklik": "Enterprise paket depolama kapasitesi 500 GB'dan 1000 GB'a (1 TB) yükseltilmiştir. Ek maliyet yansıtılmamıştır.",
+    "onceki_deger": "500 GB",
+    "yeni_deger": "1000 GB",
+    "onaylayan": "Teknik Altyapı Ekibi"
+  },
+  {
+    "id": "UPD-005",
+    "tarih": "2024-05-20",
+    "etkilenen_kaynak": "paket",
+    "etkilenen_madde": null,
+    "etkilened_paket": "Pro",
+    "etkilenen_paket": "Pro",
+    "degisiklik": "Pro paket aylık API çağrı limiti 50.000'den 100.000'e çıkarılmıştır. Bu artış ek ücret gerektirmemektedir.",
+    "onceki_deger": "50000 API çağrısı/ay",
+    "yeni_deger": "100000 API çağrısı/ay",
+    "onaylayan": "Ürün Ekibi"
+  },
+  {
+    "id": "UPD-006",
+    "tarih": "2024-07-15",
+    "etkilenen_kaynak": "sozlesme",
+    "etkilenen_madde": "6.1",
+    "etkilenen_paket": "Enterprise",
+    "degisiklik": "Enterprise paket için SLA uptime garantisi %99.9'dan %99.95'e yükseltilmiştir. SLA ihlali tazminatları da buna göre yeniden düzenlenmiştir.",
+    "onceki_deger": "%99.9 uptime",
+    "yeni_deger": "%99.95 uptime",
+    "onaylayan": "Hukuk Departmanı ve Teknik Ekip"
+  },
+  {
+    "id": "UPD-007",
+    "tarih": "2024-08-01",
+    "etkilenen_kaynak": "sozlesme",
+    "etkilenen_madde": "4.1",
+    "etkilened_paket": "Basic",
+    "etkilenen_paket": "Basic",
+    "degisiklik": "Basic paket için iade süresi 21 günden 7 güne indirilmiştir. Bu değişiklik, Basic paketin düşük fiyat politikasıyla uyumlu olmak amacıyla yapılmıştır.",
+    "onceki_deger": "21 gün",
+    "yeni_deger": "7 gün",
+    "onaylayan": "Hukuk Departmanı"
+  },
+  {
+    "id": "UPD-008",
+    "tarih": "2024-09-01",
+    "etkilenen_kaynak": "paket",
+    "etkilenen_madde": null,
+    "etkilened_paket": "Pro",
+    "etkilenen_paket": "Pro",
+    "degisiklik": "Pro paket yıllık abonelik fiyatı 4990 TL'den 5990 TL'ye yükseltilmiştir. Aylık fiyat değişmemiştir.",
+    "onceki_deger": "4990 TL/yıl",
+    "yeni_deger": "5990 TL/yıl",
+    "onaylayan": "Finans Departmanı"
+  }
+]
